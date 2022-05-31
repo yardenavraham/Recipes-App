@@ -1,5 +1,6 @@
 import { FaPizzaSlice, FaHamburger } from 'react-icons/fa'
 import { GiNoodles, GiChopsticks, GiSlicedBread } from 'react-icons/gi'
+import { TbJewishStar } from 'react-icons/tb';
 import styled from 'styled-components';
 import { NavLink } from 'react-router-dom';
 
@@ -7,6 +8,10 @@ import { NavLink } from 'react-router-dom';
 function Category() {
     return (
         <List>
+            <SLink to={'/genre/Jewish'}>
+                <TbJewishStar />
+                <h4>Jewish</h4>
+            </SLink>
             <SLink to={'/genre/Italian'}>
                 <FaPizzaSlice />
                 <h4>Italian</h4>
@@ -19,10 +24,7 @@ function Category() {
                 <GiNoodles />
                 <h4>Thai</h4>
             </SLink>
-            <SLink to={'/genre/Japanese'}>
-                <GiChopsticks />
-                <h4>Japanese</h4>
-            </SLink>
+            
         </List>
     )
 }

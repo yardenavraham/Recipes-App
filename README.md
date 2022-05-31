@@ -2,7 +2,7 @@
 <h1 align="center">:woman_cook: Recipes web application :woman_cook:</h1>
 
 ## :pencil2: About The Project
-This recipes application helps users to search recpies they like. By clicking on recipe you can get more inforamtion and the ingridients. The recipes are taken from Sponnacular [api](https://spoonacular.com/food-api).
+This recipes application helps users to search recipes they like. By clicking on recipe you can get more inforamtion and the ingridients. The recipes are taken from Sponnacular [api](https://spoonacular.com/food-api).
 
 
 ## :star: Built with
@@ -20,8 +20,12 @@ React.
 3. Run ```npm start```
 
 
-![Home](https://github.com/yardenavraham/Recipes-App/blob/main/public/screenShots/bon-appetit1.jpeg)</br></br>
-![Search for cookies recipe](https://github.com/yardenavraham/Recipes-App/blob/main/public/screenShots/bon-appetit2.jpeg)</br></br>
+## :camera: Screen shots
+:bulb: Search for cookies recipe</br>
+![Search for cookies recipe](https://github.com/yardenavraham/Recipes-App/blob/main/public/screenShots/bon-appetit1.jpeg)</br></br>
+:bulb: Italian recipes</br>
+![Italian recipes](https://github.com/yardenavraham/Recipes-App/blob/main/public/screenShots/bon-appetit2.jpeg)</br></br>
+:bulb: Details of recipe</br>
 ![By Genre](https://github.com/yardenavraham/Recipes-App/blob/main/public/screenShots/bon-appetit3.jpeg)</br></br>
 
 
