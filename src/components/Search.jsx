@@ -21,7 +21,7 @@ function Search() {
                     onChange={(e) => setInput(e.target.value)}
                     type="text"
                     value={input} 
-                    placeholder="What do you want to cook today?"/>
+                    placeholder="What would you like to cook today?"/>
 
             </div>
         </FormStyle>
