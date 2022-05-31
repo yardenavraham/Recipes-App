@@ -19,5 +19,11 @@ React.
 2. Install all packages with ```npm install```
 3. Run ```npm start```
 
+
+![Home](https://github.com/yardenavraham/Recipes-App/blob/main/public/screenShots/bon-appetit1.jpeg)</br></br>
+![Search for cookies recipe](https://github.com/yardenavraham/Recipes-App/blob/main/public/screenShots/bon-appetit2.jpeg)</br></br>
+![By Genre](https://github.com/yardenavraham/Recipes-App/blob/main/public/screenShots/bon-appetit3.jpeg)</br></br>
+
+
 ## :rocket: Demo
 Click [here](https://grocery-list-yarden.herokuapp.com/) see the demo.</br>
